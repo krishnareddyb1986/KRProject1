@@ -1,0 +1,7 @@
+<mvc:View controllerName="com.hitachi.project1.controller.Firstview"
+    xmlns:mvc="sap.ui.core.mvc"
+    xmlns="sap.m">
+    <Page id="p1" title="{i18n>title}">
+    <Button id="b2" text="test"></Button>
+    </Page>
+</mvc:View>
